@@ -1,3 +1,2 @@
-# tea
-c/c++
-Problem solving and basic code
+# C
+Problem solving and basic code.
